@@ -1,0 +1,22 @@
+$primary-color: #8ddc8d;
+
+body {
+    background-color: $primary-color;
+
+    main {
+        section:first-child{
+            background-image: url(/img/forest.jpg);
+            color: white;    
+        }
+
+        .partnerships img:nth-child(3) {
+            margin: auto;
+            width: 40%;
+        } 
+
+        .reviews-img {
+            margin: auto;
+            width: 40%;
+        }
+    }
+}

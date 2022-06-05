@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "node-sass": "^7.0.1"
+  },
+  "name": "progetto-settimanale",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass scss/app.scss scss/app.css -w"
+  },
+  "keywords": [],
+  "author": "Claudia A",
+  "license": "ISC",
+  "description": ""
+}
